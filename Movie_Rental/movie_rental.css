@@ -1,0 +1,94 @@
+body {
+    background-color: pink;
+}
+
+#mainContainer {
+    display: flex;
+}
+
+#movieDisplays {
+    display: flex;
+}
+
+#sideBar {
+    flex: .3;
+    background-color: hotpink;
+}
+
+#sideBar>h2 {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius:25px;
+}
+
+
+#aDiv {
+
+    background-color: navy;
+
+}
+
+#rDiv{
+
+background-color: grey;
+
+}
+
+.movieDivs{
+    margin: 10%;
+    border-radius: 20px;
+}
+
+.movies{
+    background-color: tan
+    
+    
+}
+
+.clickMe {
+position: relative;
+top: -200px;
+/*transfrom: translate(0%, 50%); */
+
+background-color: black; 
+color: white;
+}
+
+
+
+
+
+
+.movieImages {
+
+    width: 200px;
+    height: 300px;
+
+
+}
+
+.movieDivs {
+margin: 3%;
+border-radius: 40px;
+
+overflow: hidden;
+overflow:-wrap: break-word;
+}
+
+
+
+body
+#maincontainer
+#moviedisplays
+#sidebar
+#sidebarhover
+#sidebarh2
+#adiv
+#rDiv
+.moviedivs
+.movies
+.movieDivs:hover
+.movesh2
+
+
+
